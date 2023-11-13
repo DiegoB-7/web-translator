@@ -1,0 +1,66 @@
+main():
+import interface matplotlib;
+import interface numpy;
+
+import package numpy;
+import package keras;
+
+print("holi");
+x = input();
+x++;
+x--;
+#print("holi");#
+int myVariable = 5;
+(int) myVariable;
+
+async def showName():
+print("Diego Beltran");
+await return 0;
+
+
+result = 4 + x;
+name = data->name;
+
+switch x:
+case 1{
+print("hola amigos");
+break;
+}
+case 2{
+print("2");
+break;
+}
+
+class myClass extends myOtherClass2 [ ]{
+    ()constructor myClass:
+    super.nombre(nombre);
+    super.fecha(fecha);
+    super.edad(edad);
+
+    private nombre;
+    private fecha;
+    private edad;
+    private gradesList;
+   public namespace printName() {
+        print("Diego Beltran");
+    }
+
+    public async def showGrades():
+        from gradesList use grade as i {
+            print(i);
+        }
+        await return 0;
+}
+
+myObj = new myClass{str nombre,str fecha,int edad};
+if x == 1{
+    print(1);
+}
+else if x == 2{
+    print("2");
+}
+else{
+    print("3");
+}
+
+join(x,y);
